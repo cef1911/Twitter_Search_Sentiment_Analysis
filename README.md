@@ -4,7 +4,7 @@ This was my Jupyter Notebook I submitted for a datathon I participated in. The p
 
 I also created some data visualizations of the Sentiment Analysis using Power BI and Matplotlib.
 
-Feel free to connect with me on Linkedin or Discord
+Feel free to connect with me on Linkedin or Discord or my blog Frankly Data
 
 https://www.linkedin.com/in/christopherefranklin/
 
@@ -15,3 +15,10 @@ and
 Discord:
 
 cef1911#9758
+
+my Blog
+
+https://franklydata.wixsite.com/franklydata
+
+
+
