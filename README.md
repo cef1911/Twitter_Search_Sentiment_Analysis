@@ -17,9 +17,11 @@ Discord:
 
 cef1911#9758
 
-my Blog
+my website and blog
 
-https://franklydata.wixsite.com/franklydata
+https://www.franklydatascience.com/
+
+https://www.franklydatascience.com/blog
 
 
 
